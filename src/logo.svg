@@ -2,17 +2,17 @@
 <g id="Canvas" transform="translate(246 135)">
 <g id="LUMDB">
 <g id="Shape">
-<use xlink:href="#path0_fill" transform="translate(-141 -133.336)" fill="#FFFFFF"/>
+<use xlink:href="#path0_fill" transform="translate(-141 -133.336)" fill="#000000"/>
 </g>
 <g id="Shape">
-<use xlink:href="#path1_fill" transform="translate(-246 -133.337)" fill="#FFFFFF"/>
+<use xlink:href="#path1_fill" transform="translate(-246 -133.337)" fill="#000000"/>
 </g>
 <g id="LUMDB">
-<use xlink:href="#path2_fill" transform="translate(-227.224 -134.85)" fill="#FFFFFF"/>
-<use xlink:href="#path3_fill" transform="translate(-227.224 -134.85)" fill="#FFFFFF"/>
-<use xlink:href="#path4_fill" transform="translate(-227.224 -134.85)" fill="#FFFFFF"/>
-<use xlink:href="#path5_fill" transform="translate(-227.224 -134.85)" fill="#FFFFFF"/>
-<use xlink:href="#path6_fill" transform="translate(-227.224 -134.85)" fill="#FFFFFF"/>
+<use xlink:href="#path2_fill" transform="translate(-227.224 -134.85)" fill="#000000"/>
+<use xlink:href="#path3_fill" transform="translate(-227.224 -134.85)" fill="#000000"/>
+<use xlink:href="#path4_fill" transform="translate(-227.224 -134.85)" fill="#000000"/>
+<use xlink:href="#path5_fill" transform="translate(-227.224 -134.85)" fill="#000000"/>
+<use xlink:href="#path6_fill" transform="translate(-227.224 -134.85)" fill="#000000"/>
 </g>
 </g>
 </g>
